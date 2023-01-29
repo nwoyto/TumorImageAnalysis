@@ -1,5 +1,5 @@
 # TumorImageAnalysis
-Work in progress
+Work in progress,
 Model looks good.
 
 To Do List:
