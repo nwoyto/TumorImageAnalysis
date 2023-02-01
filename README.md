@@ -1,8 +1,8 @@
 # TumorImageAnalysis
-Work in progress,
-Model looks good.
+## Work in progress,
+### Model looks good.
 
-To Do List:
+## To Do List:
 
 Why is the VGG16 model not performing well despite evidence elsewhere of it working with this dataset.
 
